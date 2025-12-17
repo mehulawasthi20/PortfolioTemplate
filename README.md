@@ -2,6 +2,10 @@
 
 A clean, modern, and professional portfolio website template perfect for software engineers, developers, and tech professionals. Features smooth animations, and a mobile-responsive design.
 
+![Template example](images/homepage-1.png "Template example")
+![Template example 2](images/homepage-2.png "Template example 2")
+![Template example 3](images/homepage-3.png "Template example 3")
+
 ## ✨ Features
 
 - 🎨 **Modern Black & White Design** - Sleek, professional aesthetic.
